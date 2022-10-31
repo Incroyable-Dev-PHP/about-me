@@ -84,6 +84,11 @@ Vous pouvez compléter les sections dans l'ordre que vous le souhaitez:
 - 1 seul paragraphe pour une brève explication en dessous (p)
 
 
+## Qualité
+
+Votre code sera passé au crible sur le [validator](https://validator.w3.org/#validate_by_input) et ne devra comporter aucune erreur.
+
+
 ## Terminé
 
 Une fois votre activité terminée, faites un dernier commit "completed".
